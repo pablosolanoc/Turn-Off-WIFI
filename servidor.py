@@ -4,7 +4,7 @@ import socket
 
 mi_socket = socket.socket()
 
-mi_socket.bind(('xxx.xxx.xxx.xxx',7000)) #the second ip and the second argument(port) needs to be the same for the client
+mi_socket.bind(('xxx.xxx.xxx.xxx',7000)) #the ip and the second argument(port) needs to be the same for the client
 mi_socket.listen(5)
 
 
