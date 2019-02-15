@@ -1,6 +1,6 @@
 # Turn-Off-WIFI
 This python code turns off the Wi-Fi in a computer in the same network via sockets. 
-It needs to be executed in the your computer and the one that you want to diconnect.
+It needs to be executed in the your computer and the one that you want to disconnect.
 
 "server.py" needs to be executed in your computer (A).
 "client.pyw" has to go in the computer you want to disconnect (B) from a local Wi-FI network.
