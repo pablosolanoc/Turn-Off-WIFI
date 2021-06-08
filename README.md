@@ -10,4 +10,4 @@ is terminated from task manager.
 
 "client.pyw" has extension .pyw so it doesn't show up in python IDLE or your prefered python executable application.
 
-Use it well :).
+Use it well :)
